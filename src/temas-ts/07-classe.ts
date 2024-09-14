@@ -1,7 +1,7 @@
 class Persona{
     nombre:string;
     edad:number;
-    /*el constructor solaente me sirve para poder inicializar
+    /*el constructor solamente me sirve para poder inicializar
         las propiedades de la clase, no pueden hacerse operaciones dentro de el
         se debera crear otro apartado para las operaciones*/
     constructor(nombre:string,edad:number){ 
